@@ -1,6 +1,4 @@
-<img src="
-
-### Introducing myself
+## Introducing myself
           
 I'm EunGi Hong, Undergraduate of the [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/)
 
